@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638780434293",
+    "firebase_url": "https://deentreclub-e1b6f.firebaseio.com",
+    "project_id": "deentreclub-e1b6f",
+    "storage_bucket": "deentreclub-e1b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638780434293:android:58b96818e45ab933",
+        "android_client_info": {
+          "package_name": "com.example.deentreclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638780434293-av1kp8sa9b0v9ib8eau4git5mlrdklsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deentreclub",
+            "certificate_hash": "8f2ad6e5a0254d844305304d5ef9c0821dd7eea6"
+          }
+        },
+        {
+          "client_id": "638780434293-qqp41jnuk0vbem30ogv2hqjrrknumehp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDspt5dZwXiP4JlVznou0bhX7QNKiZe844"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638780434293-qqp41jnuk0vbem30ogv2hqjrrknumehp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
